@@ -299,4 +299,24 @@ nav{
 .invest-launch p{
     text-align: center;
 }
+.footer{
+    display: flex;
+    height: 230px;
+    padding: 3rem;
+}
+.footer h2{
+    font-size: 1rem;
+}
+.about{
+    justify-items: center;
+    display: block;
+}
+.about h1{
+    text-align: center;
+}
+.about-con button{
+    margin-bottom: 4rem;
+    justify-content: center;
+}
+
 }
